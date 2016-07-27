@@ -1,306 +1,306 @@
 title: pokemon-prefix
 emojis:
-  - name: pokemon-bulbasaur
+  - name: pokemon-fushigidane
     src: http://i.imgur.com/J9ynKU9.png
-  - name: pokemon-ivysaur
+  - name: pokemon-fushigisou
     src: http://i.imgur.com/2BmEJY1.png
-  - name: pokemon-venusaur
+  - name: pokemon-fushigibana
     src: http://i.imgur.com/HyvH3iG.png
-  - name: pokemon-charmander
+  - name: pokemon-hitokage
     src: http://i.imgur.com/jee6nD3.png
-  - name: pokemon-charmeleon
+  - name: pokemon-riza-do
     src: http://i.imgur.com/Gi9bvn1.png
-  - name: pokemon-charizard
+  - name: pokemon-riza-don
     src: http://i.imgur.com/xCuEJI7.png
-  - name: pokemon-squirtle
+  - name: pokemon-zenigame
     src: http://i.imgur.com/dRY9tTv.png
-  - name: pokemon-wartortle
+  - name: pokemon-kame-ru
     src: http://i.imgur.com/GGg5FQu.png
-  - name: pokemon-blastoise
+  - name: pokemon-kamekkusu
     src: http://i.imgur.com/YY1opfi.png
-  - name: pokemon-caterpie
+  - name: pokemon-kyatapi-
     src: http://i.imgur.com/vB8l2jS.png
-  - name: pokemon-metapod
+  - name: pokemon-toranseru
     src: http://i.imgur.com/FMa6yXY.png
-  - name: pokemon-butterfree
+  - name: pokemon-batafuri-
     src: http://i.imgur.com/hQAWSog.png
-  - name: pokemon-weedle
+  - name: pokemon-bi-doru
     src: http://i.imgur.com/t3J27X2.png
-  - name: pokemon-kakuna
+  - name: pokemon-koku-n
     src: http://i.imgur.com/2OxfMtn.png
-  - name: pokemon-beedrill
+  - name: pokemon-supia-
     src: http://i.imgur.com/C3c8vzg.png
-  - name: pokemon-pidgey
+  - name: pokemon-poppo
     src: http://i.imgur.com/4VTVTkk.png
-  - name: pokemon-pidgeotto
+  - name: pokemon-pijon
     src: http://i.imgur.com/DpzZ91Q.png
-  - name: pokemon-pidgeot
+  - name: pokemon-pijotto
     src: http://i.imgur.com/Mc1WObi.png
-  - name: pokemon-rattata
+  - name: pokemon-koratta
     src: http://i.imgur.com/bTejs34.png
-  - name: pokemon-raticate
+  - name: pokemon-ratta
     src: http://i.imgur.com/UeL4Aag.png
-  - name: pokemon-spearow
+  - name: pokemon-onisuzume
     src: http://i.imgur.com/TeuYzrs.png
-  - name: pokemon-fearow
+  - name: pokemon-onidoriru
     src: http://i.imgur.com/LObFh67.png
-  - name: pokemon-ekans
+  - name: pokemon-a-bo
     src: http://i.imgur.com/r87rWZ6.png
-  - name: pokemon-arbok
+  - name: pokemon-a-bokku
     src: http://i.imgur.com/sbshBkp.png
-  - name: pokemon-pikachu
+  - name: pokemon-pikachuu
     src: http://i.imgur.com/d8zj42u.png
-  - name: pokemon-raichu
+  - name: pokemon-raichuu
     src: http://i.imgur.com/cX0wvid.png
-  - name: pokemon-sandshrew
+  - name: pokemon-sando
     src: http://i.imgur.com/SLCRvLk.png
-  - name: pokemon-sandslash
+  - name: pokemon-sandopan
     src: http://i.imgur.com/YW2SBbP.png
   - name: pokemon-nidoranf
     src: http://i.imgur.com/fyzYO8j.png
-  - name: pokemon-nidorina
+  - name: pokemon-nidori-na
     src: http://i.imgur.com/MRtZMlI.png
-  - name: pokemon-nidoqueen
+  - name: pokemon-nidokuin
     src: http://i.imgur.com/fgKWPJf.png
   - name: pokemon-nidoranm
     src: http://i.imgur.com/GRMydJg.png
-  - name: pokemon-nidorino
+  - name: pokemon-nidori-no
     src: http://i.imgur.com/XtN73fs.png
-  - name: pokemon-nidoking
+  - name: pokemon-nidokingu
     src: http://i.imgur.com/Ov2IDRZ.png
-  - name: pokemon-clefairy
+  - name: pokemon-pippi
     src: http://i.imgur.com/z8n0knm.png
-  - name: pokemon-clefable
+  - name: pokemon-pikushi-
     src: http://i.imgur.com/zWGtXjb.png
-  - name: pokemon-vulpix
+  - name: pokemon-rokon
     src: http://i.imgur.com/ArDTU7v.png
-  - name: pokemon-ninetales
+  - name: pokemon-kyuukon
     src: http://i.imgur.com/ZOBFyZo.png
-  - name: pokemon-jigglypuff
+  - name: pokemon-purin
     src: http://i.imgur.com/ipf4Mp3.png
-  - name: pokemon-wigglytuff
+  - name: pokemon-pukurin
     src: http://i.imgur.com/ZmdlC1T.png
-  - name: pokemon-zubat
+  - name: pokemon-zubatto
     src: http://i.imgur.com/w8oCg2P.png
-  - name: pokemon-golbat
+  - name: pokemon-gorubatto
     src: http://i.imgur.com/muZnJwl.png
-  - name: pokemon-oddish
+  - name: pokemon-nazonokusa
     src: http://i.imgur.com/ng75ubV.png
-  - name: pokemon-gloom
+  - name: pokemon-kusaihana
     src: http://i.imgur.com/Krw7NhL.png
-  - name: pokemon-vileplume
+  - name: pokemon-rafureshia
     src: http://i.imgur.com/QipChtU.png
-  - name: pokemon-paras
+  - name: pokemon-parasu
     src: http://i.imgur.com/JWYUQ2D.png
-  - name: pokemon-parasect
+  - name: pokemon-parasuect
     src: http://i.imgur.com/TTm83oB.png
-  - name: pokemon-venonat
+  - name: pokemon-konpan
     src: http://i.imgur.com/rK55R0R.png
-  - name: pokemon-venomoth
+  - name: pokemon-morufon
     src: http://i.imgur.com/cr7Hrtz.png
-  - name: pokemon-diglett
+  - name: pokemon-diguda
     src: http://i.imgur.com/4rgKdgx.png
-  - name: pokemon-dugtrio
+  - name: pokemon-dagutorio
     src: http://i.imgur.com/DgUAgCb.png
-  - name: pokemon-meowth
+  - name: pokemon-nya-su
     src: http://i.imgur.com/VBO9q67.png
-  - name: pokemon-persian
+  - name: pokemon-perushian
     src: http://i.imgur.com/Ebeufiu.png
-  - name: pokemon-psyduck
+  - name: pokemon-kodakku
     src: http://i.imgur.com/vZ9t8bU.png
-  - name: pokemon-golduck
+  - name: pokemon-gorudakku
     src: http://i.imgur.com/6elJIqf.png
-  - name: pokemon-mankey
+  - name: pokemon-manki-
     src: http://i.imgur.com/ZADfOPO.png
-  - name: pokemon-primeape
+  - name: pokemon-okorizaru
     src: http://i.imgur.com/zbCGbRT.png
-  - name: pokemon-growlithe
+  - name: pokemon-ga-di
     src: http://i.imgur.com/1tHmP4M.png
-  - name: pokemon-arcanine
+  - name: pokemon-uindi
     src: http://i.imgur.com/rfk9PVT.png
-  - name: pokemon-poliwag
+  - name: pokemon-nyoromo
     src: http://i.imgur.com/iWgkh6Z.png
-  - name: pokemon-poliwhirl
+  - name: pokemon-nyorozo
     src: http://i.imgur.com/LstLmxR.png
-  - name: pokemon-poliwrath
+  - name: pokemon-nyorobon
     src: http://i.imgur.com/wCBEXvZ.png
-  - name: pokemon-abra
+  - name: pokemon-ke-shii
     src: http://i.imgur.com/m6SEUIc.png
-  - name: pokemon-kadabra
+  - name: pokemon-yungera-
     src: http://i.imgur.com/MImxjGE.png
-  - name: pokemon-alakazam
+  - name: pokemon-fu-din
     src: http://i.imgur.com/39ffQOc.png
-  - name: pokemon-machop
+  - name: pokemon-wanriki-
     src: http://i.imgur.com/RTrQqOh.png
-  - name: pokemon-machoke
+  - name: pokemon-go-riki
     src: http://i.imgur.com/BxYqaV7.png
-  - name: pokemon-machamp
+  - name: pokemon-kairiki-
     src: http://i.imgur.com/M4EhGUa.png
-  - name: pokemon-bellsprout
+  - name: pokemon-madatsubomi
     src: http://i.imgur.com/z9GIhur.png
-  - name: pokemon-weepinbell
+  - name: pokemon-utsudon
     src: http://i.imgur.com/YV6kNAz.png
-  - name: pokemon-victreebel
+  - name: pokemon-utsubotto
     src: http://i.imgur.com/iBs61Rw.png
-  - name: pokemon-tentacool
+  - name: pokemon-menokurage
     src: http://i.imgur.com/0mCuhFr.png
-  - name: pokemon-tentacruel
+  - name: pokemon-dokukurage
     src: http://i.imgur.com/b6Gazzn.png
-  - name: pokemon-geodude
+  - name: pokemon-ishitsubute
     src: http://i.imgur.com/7stN60U.png
-  - name: pokemon-graveler
+  - name: pokemon-goro-n
     src: http://i.imgur.com/ey0UYBh.png
-  - name: pokemon-golem
+  - name: pokemon-goro-nya
     src: http://i.imgur.com/WvICAUZ.png
-  - name: pokemon-ponyta
+  - name: pokemon-poni-ta
     src: http://i.imgur.com/QOAowzP.png
-  - name: pokemon-rapidash
+  - name: pokemon-gyaroppu
     src: http://i.imgur.com/vsFF9vy.png
-  - name: pokemon-slowpoke
+  - name: pokemon-yadon
     src: http://i.imgur.com/JHOjICn.png
-  - name: pokemon-slowbro
+  - name: pokemon-yadoran
     src: http://i.imgur.com/iAtAgi4.png
-  - name: pokemon-magnemite
+  - name: pokemon-koiru
     src: http://i.imgur.com/9838phS.png
-  - name: pokemon-magneton
+  - name: pokemon-reakoiru
     src: http://i.imgur.com/3bLL11M.png
-  - name: pokemon-farfetch
+  - name: pokemon-kamonegi
     src: http://i.imgur.com/nA5z9vf.png
-  - name: pokemon-doduo
+  - name: pokemon-do-do-
     src: http://i.imgur.com/kah8lVf.png
-  - name: pokemon-dodrio
+  - name: pokemon-do-dorio
     src: http://i.imgur.com/pplDPof.png
-  - name: pokemon-seel
+  - name: pokemon-pauwau
     src: http://i.imgur.com/n2mUSQM.png
-  - name: pokemon-dewgong
+  - name: pokemon-jugon
     src: http://i.imgur.com/e2sVFJ9.png
-  - name: pokemon-grimer
+  - name: pokemon-betobeta-
     src: http://i.imgur.com/JqBcHP3.png
-  - name: pokemon-muk
+  - name: pokemon-betobeton
     src: http://i.imgur.com/3tDlRaF.png
-  - name: pokemon-shellder
+  - name: pokemon-shieruda-
     src: http://i.imgur.com/ijYCl5X.png
-  - name: pokemon-cloyster
+  - name: pokemon-parushien
     src: http://i.imgur.com/BVPJ9mT.png
-  - name: pokemon-gastly
+  - name: pokemon-go-su
     src: http://i.imgur.com/WyqrW1i.png
-  - name: pokemon-haunter
+  - name: pokemon-go-suto
     src: http://i.imgur.com/QTsY4Pj.png
-  - name: pokemon-gengar
+  - name: pokemon-genga-
     src: http://i.imgur.com/sRpm6ko.png
-  - name: pokemon-onix
+  - name: pokemon-iwa-ku
     src: http://i.imgur.com/0VorWp9.png
-  - name: pokemon-drowzee
+  - name: pokemon-suri-pu
     src: http://i.imgur.com/0r60JJM.png
-  - name: pokemon-hypno
+  - name: pokemon-suri-pa-
     src: http://i.imgur.com/SkFsbbm.png
-  - name: pokemon-krabby
+  - name: pokemon-kurabu
     src: http://i.imgur.com/jY95paa.png
-  - name: pokemon-kingler
+  - name: pokemon-kingura-
     src: http://i.imgur.com/sd2Txy7.png
-  - name: pokemon-voltorb
+  - name: pokemon-biriridama
     src: http://i.imgur.com/HcFELhG.png
-  - name: pokemon-electrode
+  - name: pokemon-marumain
     src: http://i.imgur.com/TZZ4Oyg.png
-  - name: pokemon-exeggcute
+  - name: pokemon-tamatama
     src: http://i.imgur.com/iR6uH27.png
-  - name: pokemon-exeggutor
+  - name: pokemon-nasshi-
     src: http://i.imgur.com/vdaiuyl.png
-  - name: pokemon-cubone
+  - name: pokemon-karakara
     src: http://i.imgur.com/5ahcjNN.png
-  - name: pokemon-marowak
+  - name: pokemon-garagara
     src: http://i.imgur.com/UdDCob5.png
-  - name: pokemon-hitmonlee
+  - name: pokemon-sawamura-
     src: http://i.imgur.com/neZvjyS.png
-  - name: pokemon-hitmonchan
+  - name: pokemon-ebiwara-
     src: http://i.imgur.com/JWcdbk5.png
-  - name: pokemon-lickitung
+  - name: pokemon-beroringa
     src: http://i.imgur.com/aZOT7Aq.png
-  - name: pokemon-koffing
+  - name: pokemon-doga-su
     src: http://i.imgur.com/27Oq8tF.png
-  - name: pokemon-weezing
+  - name: pokemon-matadogasu
     src: http://i.imgur.com/AM4T75L.png
-  - name: pokemon-rhyhorn
+  - name: pokemon-saiho-n
     src: http://i.imgur.com/kvmV7Rv.png
-  - name: pokemon-rhydon
+  - name: pokemon-saidon
     src: http://i.imgur.com/3oXMPAn.png
-  - name: pokemon-chansey
+  - name: pokemon-rakki-
     src: http://i.imgur.com/dqfduAJ.png
-  - name: pokemon-tangela
+  - name: pokemon-monjara
     src: http://i.imgur.com/YifjSAL.png
-  - name: pokemon-kangaskhan
+  - name: pokemon-garu-ra
     src: http://i.imgur.com/cXO0pEr.png
-  - name: pokemon-horsea
+  - name: pokemon-tattsu-
     src: http://i.imgur.com/KPORG91.png
-  - name: pokemon-seadra
+  - name: pokemon-shi-dora
     src: http://i.imgur.com/uMbL1Sd.png
-  - name: pokemon-goldeen
+  - name: pokemon-tosakinto
     src: http://i.imgur.com/WTsVZD0.png
-  - name: pokemon-seaking
+  - name: pokemon-azumaou
     src: http://i.imgur.com/QPXKxb6.png
-  - name: pokemon-staryu
+  - name: pokemon-hitodeman
     src: http://i.imgur.com/pAMBC7h.png
-  - name: pokemon-starmie
+  - name: pokemon-suta-mi-
     src: http://i.imgur.com/IrE5Z0j.png
-  - name: pokemon-mrmime
+  - name: pokemon-bariya-do
     src: http://i.imgur.com/cQNEwsX.png
-  - name: pokemon-scyther
+  - name: pokemon-sutoraiku
     src: http://i.imgur.com/rRHori0.png
-  - name: pokemon-jynx
+  - name: pokemon-ru-jura
     src: http://i.imgur.com/eMJ7fC5.png
-  - name: pokemon-electabuzz
+  - name: pokemon-erebu-
     src: http://i.imgur.com/TFt4SNV.png
-  - name: pokemon-magmar
+  - name: pokemon-bu-ba-
     src: http://i.imgur.com/RjFcLOz.png
-  - name: pokemon-pinsir
+  - name: pokemon-kairosu
     src: http://i.imgur.com/Df1mbmR.png
-  - name: pokemon-tauros
+  - name: pokemon-kentarosu
     src: http://i.imgur.com/3W1Cjba.png
-  - name: pokemon-magikarp
+  - name: pokemon-koikingu
     src: http://i.imgur.com/jzmho2Y.png
-  - name: pokemon-gyarados
+  - name: pokemon-gyaradosu
     src: http://i.imgur.com/Evtm1DG.png
-  - name: pokemon-lapras
+  - name: pokemon-rapurasu
     src: http://i.imgur.com/0YWCWiC.png
-  - name: pokemon-ditto
+  - name: pokemon-metamon
     src: http://i.imgur.com/Wv5qoAv.png
-  - name: pokemon-eevee
+  - name: pokemon-i-bui
     src: http://i.imgur.com/ci7ZrUx.png
-  - name: pokemon-vaporeon
+  - name: pokemon-shawa-zu
     src: http://i.imgur.com/9PFAu2e.png
-  - name: pokemon-jolteon
+  - name: pokemon-sanda-su
     src: http://i.imgur.com/my4fdKU.png
-  - name: pokemon-flareon
+  - name: pokemon-bu-suta-
     src: http://i.imgur.com/9IoE33v.png
-  - name: pokemon-porygon
+  - name: pokemon-porigon
     src: http://i.imgur.com/gV34Aeb.png
-  - name: pokemon-omanyte
+  - name: pokemon-omunaito
     src: http://i.imgur.com/kX5obKw.png
-  - name: pokemon-omastar
+  - name: pokemon-omusuta-
     src: http://i.imgur.com/Dbu29qN.png
   - name: pokemon-kabuto
     src: http://i.imgur.com/OY7ujoJ.png
-  - name: pokemon-kabutops
+  - name: pokemon-kabutopusu
     src: http://i.imgur.com/QlGO2ik.png
-  - name: pokemon-aerodactyl
+  - name: pokemon-putera
     src: http://i.imgur.com/GHn4OfJ.png
-  - name: pokemon-snorlax
+  - name: pokemon-kabigon
     src: http://i.imgur.com/4mVf4qo.png
-  - name: pokemon-articuno
+  - name: pokemon-furi-za-
     src: http://i.imgur.com/vGhFLIE.png
-  - name: pokemon-zapdos
+  - name: pokemon-sanda-
     src: http://i.imgur.com/YRoGMhw.png
-  - name: pokemon-moltres
+  - name: pokemon-faiya-
     src: http://i.imgur.com/xF2Iq2z.png
-  - name: pokemon-dratini
+  - name: pokemon-miniryuu
     src: http://i.imgur.com/u4kuUX6.png
-  - name: pokemon-dragonair
+  - name: pokemon-hakuryu-
     src: http://i.imgur.com/wnO5kMH.png
-  - name: pokemon-dragonite
+  - name: pokemon-kairyu-
     src: http://i.imgur.com/tRAf2ht.png
-  - name: pokemon-mewtwo
+  - name: pokemon-myuutsu-
     src: http://i.imgur.com/EbSLVKQ.png
-  - name: pokemon-mew
+  - name: pokemon-myuu
     src: http://i.imgur.com/5n3F79K.png
   - name: pokemon-riolu
     src: http://i.imgur.com/HPYzUSy.png

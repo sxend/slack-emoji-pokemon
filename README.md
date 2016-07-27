@@ -1,4 +1,4 @@
-# Slack Emoji Pokémon
+# Slack Emoji Pokémon (日本語名ローマ字版)
 
 This project works best with [lambtron/emojipacks](https://github.com/lambtron/emojipacks). No need to clone, just use the raw URLs for YAML files.
 
